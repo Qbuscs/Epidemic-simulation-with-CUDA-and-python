@@ -68,6 +68,7 @@ In the last column given is the type of an argument. For example, you would prov
 
 ### Things to improve that I can't be bothered with
 
+ - Seperate code into diffrent files.
  - Make a filename in animate.py a providable argument, not a hardcoded one
  - Rewrite animation completly. Matplotlib doesn't do well with input size of over 50000. OpenGL would be preffered.
  - Try to utilize shared memory in CUDA. Maybe make it so that a CUDA thread does not manage people, but some part of a region.
