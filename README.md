@@ -73,7 +73,7 @@ In the last column the type of an argument is given. For example, you would prov
  - Rewrite animation completly. Matplotlib doesn't do well with input size of over 50000. OpenGL would be preffered.
  - Try to utilize shared memory in CUDA. Maybe make it so that a CUDA thread does not manage people, but some part of a region.
  - Make a binary output file, not a text one. It would shrink it around twofold. Currently, with population size of 100000 and simulation time of 500 iterations it can go over 1GB.
- - Throw away a save to file completly (look at point 2).
- - Change some values like Immune time or valocity to bell curve, not a fixed probalility.
+ - Throw away a save to file completly (look at point 3).
+ - Change some values like Immune time or velocity to bell curve, not a fixed probalility.
  - Write more complex rules for quarantine time that look at current state of population health.
  - Add more configurable parameters.
