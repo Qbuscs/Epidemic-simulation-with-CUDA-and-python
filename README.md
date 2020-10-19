@@ -2,7 +2,7 @@
 
 ### Overview
 
-This is a simulation of spread of an epidemic in a closed community. It utilisied CUDA to compute every iteration of the simulation, and a python script to animate ready results, together with graphs depicting the health state of the population over time. The simulation is configurable under many aspects, which will be described bellow. The population is represented during visualization as points on a surface, with their color represting their health state in a following way
+This is a simulation of spread of an epidemic in a closed community. It utilises CUDA to compute every iteration of the simulation, and a python script to animate ready results, together with graphs depicting the health state of the population over time. The simulation is configurable under many aspects, which will be described bellow. The population is represented during visualization as points on a surface, with their color represting their health state in a following way
 | Color | Health |
 | ----- | ------ |
 | Green | Healthy |
