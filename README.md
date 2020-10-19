@@ -42,8 +42,8 @@ $ python animate.py
 
 ### Simulation settings
 
-Below ius the list of every configurable setting. You can provide short or long version.
-In the last column given is the type of an argument. For example, you would provide respectively
+Below is the list of every configurable setting. You can provide short or long version.
+In the last column the type of an argument is given. For example, you would provide respectively
 ./pandemia -N 1000 -DIM 50.0
 
 | Setting | Description | Short version | Long version |  Argument | Default value |
